@@ -3,7 +3,3 @@ name: kube-prometheus-stack-wrapper-chart
 type: application
 version: 0.1.0
 appVersion: "0.1.0"
-dependenices:
-  - name: kube-prometheus-stack
-    version: 40.5.0
-    repository: https://prometheus-community.github.io/helm-charts
